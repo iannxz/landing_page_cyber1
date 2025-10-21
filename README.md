@@ -58,11 +58,11 @@ Se tiver coragem, você pode invocar este projeto em sua máquina local:
 
 1.  Clone este repositório:
     ```bash
-    git clone [https://github.com/](https://github.com/)[SEU-USUARIO]/[SEU-REPOSITORIO].git
+    git clone [https://github.com/](https://github.com/iannxz/landing_page_cyber1.git)
     ```
 2.  Navegue até a pasta do projeto:
     ```bash
-    cd [NOME-DA-PASTA-DO-REPOSITORIO]
+    cd [landing_page_cyber1]
     ```
 3.  Abra o arquivo `index.html` no seu navegador preferido.
 
